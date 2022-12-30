@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "profile": "Profile",
+  "myCode": "My code",
+  "settings": "Settings",
+  "comingSoon": "Coming soon!!",
+  "allCodes": "All codes",
+  "favorites": "Favorites",
+  "theMachine": "The machine",
+  "add": "Add +",
+  "myCar": "My car",
+  "myChild": "My child",
+  "myFlat": "My flat",
+  "myWallet": "My wallet",
+  "myTelephone": "My telephone",
+  "unexpectedError": "Unexpected Error"
+}

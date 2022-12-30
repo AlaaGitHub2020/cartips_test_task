@@ -1,0 +1,17 @@
+{
+  "@@locale": "ru",
+  "profile": "Профиль",
+  "myCode": "Мои коды",
+  "settings": "Настройки",
+  "comingSoon": "Вскоре!!",
+  "allCodes": "Все коды",
+  "favorites": "Избранное",
+  "theMachine": "Машина",
+  "add": "Добавить +",
+  "myCar": "Моя машина",
+  "myChild": "Мой ребенок",
+  "myFlat": "Моя квартира",
+  "myWallet": "Мой кошелек",
+  "myTelephone": "Мой телефон",
+  "unexpectedError": "Непредвиденная ошибка"
+}
